@@ -1,0 +1,2240 @@
+
+This is the 1 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 526
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 125
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 142
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 7
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 3
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 52859
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12814
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14201
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 73
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 33
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 45
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 8
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5378514
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1274754
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1413804
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 802
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 457
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 495
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 91
+
+This is the 2 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 536
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 128
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 146
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 7
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 4
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 54057
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12957
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14557
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 74
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 35
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 45
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 8
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5358315
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1302932
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1417751
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 779
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 436
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 474
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 88
+
+This is the 3 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 4
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 1
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 518
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 123
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 141
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 6
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 3
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 52444
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12719
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14073
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 71
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 33
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 44
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 8
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5246420
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1268605
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1407712
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 768
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 434
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 468
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 86
+
+This is the 4 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 522
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 125
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 141
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 6
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 4
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 52350
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12654
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14069
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 72
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 34
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 43
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 8
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5379524
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1277311
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1421925
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 784
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 442
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 479
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 88
+
+This is the 5 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 523
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 127
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 141
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 6
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 4
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 52654
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12743
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14147
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 72
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 33
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 44
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 10
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5286211
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1276746
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1415537
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 778
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 443
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 471
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 89
+
+This is the 6 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 520
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 126
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 143
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 7
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 4
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 52752
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12693
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14166
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 73
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 34
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 43
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 8
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5270589
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1273848
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1414967
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 778
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 439
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 478
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 89
+
+This is the 7 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 4
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 523
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 126
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 142
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 7
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 3
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 52640
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12635
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14157
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 72
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 33
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 43
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 8
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5275669
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1275193
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1415226
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 779
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 443
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 476
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 93
+
+This is the 8 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 4
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 522
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 125
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 142
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 6
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 4
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 52708
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12758
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14165
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 72
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 34
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 44
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 8
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5278807
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1274813
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1415173
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 780
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 438
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 474
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 90
+
+This is the 9 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 521
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 124
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 142
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 7
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 3
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 52860
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12687
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14167
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 74
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 34
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 44
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 8
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5285017
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1274023
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1415000
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 780
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 442
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 479
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 90
+
+This is the 10 iteration.
+
+A list with 10 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 100 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 0
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 1000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 4
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 0
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 0
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 0
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 0
+
+A list with 10000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 522
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 125
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 142
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 6
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 2
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 3
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 1
+
+A list with 100000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 52691
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 12734
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 14189
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 73
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 34
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 44
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 8
+
+A list with 1000000 items
+
+//////////BUBBLE SORT///////////
+
+
+Elapsed Time: 5280525
+
+//////////INSERTION SORT///////////
+
+
+Elapsed Time: 1274751
+
+//////////SELECTION SORT///////////
+
+
+Elapsed Time: 1415159
+
+//////////MERGE SORT///////////
+
+
+Elapsed Time: 778
+
+//////////HEAP SORT///////////
+
+
+Elapsed Time: 439
+
+//////////QUICK SORT///////////
+
+
+Elapsed Time: 475
+
+//////////RADIX SORT///////////
+
+
+Elapsed Time: 89
