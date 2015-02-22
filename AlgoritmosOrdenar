@@ -1,0 +1,411 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Diagnostics;
+using System.IO;
+
+namespace ProyectoOrdenamientoAlgoritmos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            FileStream ostrm;
+            StreamWriter writer;
+            TextWriter oldOut = Console.Out;
+            try
+            {
+                ostrm = new FileStream("Results3.txt", FileMode.OpenOrCreate, FileAccess.Write);
+                writer = new StreamWriter(ostrm);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Cannot open Redirect.txt for writing");
+                Console.WriteLine(e.Message);
+                return;
+            }
+
+            Console.SetOut(writer);
+
+            int size = 0;
+
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine("\nThis is the "+i+" iteration.");
+                size = 10;
+
+                Console.WriteLine("\nA list with 10 items");
+                Console.WriteLine(BubbleSort(llenarArray(size)));
+                Console.WriteLine(insertsort(llenarArray(size)));
+                Console.WriteLine(selectsort(llenarArray(size)));
+                Console.WriteLine(MergeSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(HeapSort(llenarArray(size)));
+                Console.WriteLine(QuickSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(RadixSort(llenarArray(size)));
+
+                size = 100;
+
+                Console.WriteLine("\nA list with 100 items");
+                Console.WriteLine(BubbleSort(llenarArray(size)));
+                Console.WriteLine(insertsort(llenarArray(size)));
+                Console.WriteLine(selectsort(llenarArray(size)));
+                Console.WriteLine(MergeSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(HeapSort(llenarArray(size)));
+                Console.WriteLine(QuickSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(RadixSort(llenarArray(size)));
+
+                size = 1000;
+
+                Console.WriteLine("\nA list with 1000 items");
+                Console.WriteLine(BubbleSort(llenarArray(size)));
+                Console.WriteLine(insertsort(llenarArray(size)));
+                Console.WriteLine(selectsort(llenarArray(size)));
+                Console.WriteLine(MergeSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(HeapSort(llenarArray(size)));
+                Console.WriteLine(QuickSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(RadixSort(llenarArray(size)));
+
+                size = 10000;
+
+                Console.WriteLine("\nA list with 10000 items");
+                Console.WriteLine(BubbleSort(llenarArray(size)));
+                Console.WriteLine(insertsort(llenarArray(size)));
+                Console.WriteLine(selectsort(llenarArray(size)));
+                Console.WriteLine(MergeSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(HeapSort(llenarArray(size)));
+                Console.WriteLine(QuickSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(RadixSort(llenarArray(size)));
+
+                size = 100000;
+
+                Console.WriteLine("\nA list with 100000 items");
+                Console.WriteLine(BubbleSort(llenarArray(size)));
+                Console.WriteLine(insertsort(llenarArray(size)));
+                Console.WriteLine(selectsort(llenarArray(size)));
+                Console.WriteLine(MergeSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(HeapSort(llenarArray(size)));
+                Console.WriteLine(QuickSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(RadixSort(llenarArray(size)));
+
+                size = 1000000;
+
+                Console.WriteLine("\nA list with 1000000 items");
+                Console.WriteLine(BubbleSort(llenarArray(size)));
+                Console.WriteLine(insertsort(llenarArray(size)));
+                Console.WriteLine(selectsort(llenarArray(size)));
+                Console.WriteLine(MergeSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(HeapSort(llenarArray(size)));
+                Console.WriteLine(QuickSort(llenarArray(size), 0, size - 1));
+                Console.WriteLine(RadixSort(llenarArray(size)));
+            }
+            Console.SetOut(oldOut);
+            writer.Close();
+            ostrm.Close();
+            Console.WriteLine("Done");
+        }
+
+        public static int[] ShuffleArray(int[] array)
+        {
+            Random r = new Random();
+            for (int i = array.Length; i > 0; i--)
+            {
+                int j = r.Next(i);
+                int k = array[j];
+                array[j] = array[i - 1];
+                array[i - 1] = k;
+            }
+            return array;
+        }
+
+        public static int[] llenarArray(int size)
+        {
+            int[] arr = new int[size];
+            int cont = 1;
+
+            for (int i = 0; i < size; i++)
+            {
+                arr[i] = cont;
+                cont++;
+            }
+
+            return ShuffleArray(arr);
+        }
+
+        public static string insertsort(int[] data)
+        {
+            var watch = Stopwatch.StartNew();
+
+            int i, j;
+            string salida = "\n//////////INSERTION SORT///////////\n\n";
+            for (i = 1; i < data.Length; i++)
+            {
+                int item = data[i];
+                int ins = 0;
+                for (j = i - 1; j >= 0 && ins != 1; )
+                {
+                    if (item < data[j])
+                    {
+                        data[j + 1] = data[j];
+                        j--;
+                        data[j + 1] = item;
+                    }
+                    else ins = 1;
+                }
+            }
+
+            watch.Stop();
+
+            return salida + "\nElapsed Time: " + watch.ElapsedMilliseconds.ToString();
+        }
+
+        public static string BubbleSort(int[] arr)
+        {
+
+            string salida = "\n//////////BUBBLE SORT///////////\n\n";
+
+            var watch = Stopwatch.StartNew();
+
+            int temp = 0;
+
+            for (int write = 0; write < arr.Length; write++)
+            {
+                for (int sort = 0; sort < arr.Length - 1; sort++)
+                {
+                    if (arr[sort] > arr[sort + 1])
+                    {
+                        temp = arr[sort + 1];
+                        arr[sort + 1] = arr[sort];
+                        arr[sort] = temp;
+                    }
+                }
+            }
+
+            watch.Stop();
+
+            return salida+"\nElapsed Time: "+watch.ElapsedMilliseconds.ToString();
+        }
+
+        public static string selectsort(int[] dataset)
+        {
+            string salida = "\n//////////SELECTION SORT///////////\n\n";
+
+            var watch = Stopwatch.StartNew();
+
+            int i, j;
+            for (i = 0; i < dataset.Length; i++)
+            {
+                int min = i;
+                for (j = i + 1; j < dataset.Length; j++)
+                    if (dataset[j] < dataset[min]) min = j; 
+                int temp = dataset[i];
+                dataset[i] = dataset[min];
+                dataset[min] = temp;
+            }
+
+            watch.Stop();
+
+            return salida + "\nElapsed Time: " + watch.ElapsedMilliseconds.ToString();
+        }
+
+        public static string MergeSort(int[] input, int left, int right)
+        {
+            string salida = "\n//////////MERGE SORT///////////\n\n";
+
+            var watch = Stopwatch.StartNew();
+
+            if (left < right)
+            {
+                int middle = (left + right) / 2;
+
+                MergeSort(input, left, middle);
+                MergeSort(input, middle + 1, right);
+
+                //Merge
+                int[] leftArray = new int[middle - left + 1];
+                int[] rightArray = new int[right - middle];
+
+                Array.Copy(input, left, leftArray, 0, middle - left + 1);
+                Array.Copy(input, middle + 1, rightArray, 0, right - middle);
+
+                int i = 0;
+                int j = 0;
+                for (int k = left; k < right + 1; k++)
+                {
+                    if (i == leftArray.Length)
+                    {
+                        input[k] = rightArray[j];
+                        j++;
+                    }
+                    else if (j == rightArray.Length)
+                    {
+                        input[k] = leftArray[i];
+                        i++;
+                    }
+                    else if (leftArray[i] <= rightArray[j])
+                    {
+                        input[k] = leftArray[i];
+                        i++;
+                    }
+                    else
+                    {
+                        input[k] = rightArray[j];
+                        j++;
+                    }
+                }
+            }
+
+            watch.Stop();
+
+            return salida + "\nElapsed Time: " + watch.ElapsedMilliseconds.ToString();
+        }
+
+        public static string HeapSort(int[] input)
+        {
+            string salida = "\n//////////HEAP SORT///////////\n\n";
+
+            var watch = Stopwatch.StartNew();
+
+            //Build-Max-Heap
+            int heapSize = input.Length;
+            for (int p = (heapSize - 1) / 2; p >= 0; p--)
+                MaxHeapify(input, heapSize, p);
+ 
+            for (int i = input.Length - 1; i > 0; i--)
+            {
+                //Swap
+                int temp = input[i];
+                input[i] = input[0];
+                input[0] = temp;
+ 
+                heapSize--;
+                MaxHeapify(input, heapSize, 0);
+            }
+
+            watch.Stop();
+
+            return salida + "\nElapsed Time: " + watch.ElapsedMilliseconds.ToString();
+        }
+
+        private static void MaxHeapify(int[] input, int heapSize, int index)
+        {
+            int left = (index + 1) * 2 - 1;
+            int right = (index + 1) * 2;
+            int largest = 0;
+ 
+            if (left < heapSize && input[left] > input[index])
+                largest = left;
+            else
+                largest = index;
+ 
+            if (right < heapSize && input[right] > input[largest])
+                largest = right;
+ 
+            if (largest != index)
+            {
+                int temp = input[index];
+                input[index] = input[largest];
+                input[largest] = temp;
+ 
+                MaxHeapify(input, heapSize, largest);
+            }
+        }
+
+        public static string QuickSort(int[] input, int left, int right)
+        {
+            string salida = "\n//////////QUICK SORT///////////\n\n";
+
+            var watch = Stopwatch.StartNew();
+
+            if (left < right)
+            {
+                int q = Partition(input, left, right);
+                QuickSort(input, left, q - 1);
+                QuickSort(input, q + 1, right);
+            }
+
+            watch.Stop();
+
+            return salida + "\nElapsed Time: " + watch.ElapsedMilliseconds.ToString();
+        }
+
+        private static int Partition(int[] input, int left, int right)
+        {
+            int pivot = input[right];
+            int temp;
+ 
+            int i = left;
+            for (int j = left; j < right; j++)
+            {
+                if (input[j] <= pivot)
+                {
+                    temp = input[j];
+                    input[j] = input[i];
+                    input[i] = temp;
+                    i++;
+                }
+            }
+ 
+            input[right] = input[i];
+            input[i] = pivot;
+ 
+            return i;
+        }
+
+        public static string RadixSort(int[] a)
+        {
+            string salida = "\n//////////RADIX SORT///////////\n\n";
+
+            var watch = Stopwatch.StartNew();
+
+            // our helper array 
+            int[] t = new int[a.Length];
+
+            // number of bits our group will be long 
+            int r = 4; // try to set this also to 2, 8 or 16 to see if it is quicker or not 
+
+            // number of bits of a C# int 
+            int b = 32;
+
+            // counting and prefix arrays
+            // (note dimensions 2^r which is the number of all possible values of a r-bit number) 
+            int[] count = new int[1 << r];
+            int[] pref = new int[1 << r];
+
+            // number of groups 
+            int groups = (int)Math.Ceiling((double)b / (double)r);
+
+            // the mask to identify groups 
+            int mask = (1 << r) - 1;
+
+            // the algorithm: 
+            for (int c = 0, shift = 0; c < groups; c++, shift += r)
+            {
+                // reset count array 
+                for (int j = 0; j < count.Length; j++)
+                    count[j] = 0;
+
+                // counting elements of the c-th group 
+                for (int i = 0; i < a.Length; i++)
+                    count[(a[i] >> shift) & mask]++;
+
+                // calculating prefixes 
+                pref[0] = 0;
+                for (int i = 1; i < count.Length; i++)
+                    pref[i] = pref[i - 1] + count[i - 1];
+
+                // from a[] to t[] elements ordered by c-th group 
+                for (int i = 0; i < a.Length; i++)
+                    t[pref[(a[i] >> shift) & mask]++] = a[i];
+
+                // a[]=t[] and start again until the last group 
+                t.CopyTo(a, 0);
+            }
+            // a is sorted 
+            watch.Stop();
+
+            return salida + "\nElapsed Time: " + watch.ElapsedMilliseconds.ToString();
+        }
+    }
+}
